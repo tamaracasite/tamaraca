@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes:
-  - landing
+  - wide
   - dark-theme
 ---
 
