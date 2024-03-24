@@ -2,9 +2,9 @@ main:
   - title: "Accueil"
     url: /
   - title: "Histoire"
-    url: /histoire.html
+    url: /_pages/histoire.html
   - title: "Les cours"
-    url: /les-cours.html
+    url: /_pages/les-cours.html
   - title: "Tags"
     url: /tags/
   - title: "Pages"
