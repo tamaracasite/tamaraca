@@ -34,12 +34,6 @@ classes:
           <i class="fab fa-facebook"></i></a></span></div>
           <div class="wp-block-jetpack-phone"><span itemprop="telephone"><a href="https://www.instagram.com/tamaracaparis" target="_blank" title="Instagram">
           <i class="fab fa-instagram"></i></a></span></div>
-              
-
-
-    
-
-        <! --img src="/assets/img/tamaraca.jpg" class="img-responsive img-thumbnail" style="width: 150%; height: auto; margin: 0 10px;" alt="Random photo"-->
 
 
       </div>
