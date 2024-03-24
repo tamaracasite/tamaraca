@@ -43,6 +43,4 @@ classes:
   </div>
 
 </div>
-
-  </article>
 </div>
