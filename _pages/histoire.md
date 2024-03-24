@@ -3,6 +3,25 @@ permalink: /histoire/
 classes:
   - wide
 ---
+<div id="main"
+     role="main">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<h1 style="color: red; display: inline-block;">Tamaraca</h1>
+        <p><h4 style="color: black; display: inline-block;">tous les mardi à 20h – Studio Bleu</h4></p>
+				<p>Tamaraca développe un travail de pédagogie collective de recherche concernant le Maracatu de baque virado. Cette approche s’inspire de la pédagogie du Trovão das Minas de Belo Horizonte, mais résulte aussi des expériences de ses membres au Brésil et aussi des stages avec des Mestres et membres des naçoes de Maracatu de baque virado , et de professeurs et chercheurs de ce style musical. De plus Tamaraca a des liens avec les groupes percussifs Trovão das Minas, Rio Maracatu, Cia Caracaxa Quintal Escambo Cultural.</p>
+				<img src="assets/img/tamaraca.jpg"
+				     class="img-responsive img-thumbnail"
+				     style="width: 150%; height: auto; margin: 0 10px;"
+				     alt="Random photo">
+
+
+      </div>
+			</div> 
+		</div>
+	</div>
+
 
 <div class="wp-block-group alignfull">
 	<div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
