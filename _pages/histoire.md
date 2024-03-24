@@ -2,7 +2,6 @@
 permalink: /histoire/
 classes:
   - wide
-  - dark-theme
 ---
 
 
