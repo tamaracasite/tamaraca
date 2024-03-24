@@ -404,8 +404,6 @@ classes:
 <p><br><strong>Oya o mulher forte</strong>&nbsp;<strong>&nbsp;&#8211;&nbsp;afoxé</strong><br><br>Oyá ô mulher forte<br>poderosa de sagrada<br>dona de tanta beleza<br>rainha obstinada<br>minha mãe meu orixá<br>é dona da minha vida<br>é tão linda minha oyá&#8230;me protege mãe querida!<br><br><strong>Oxossi &#8211;&nbsp;afoxé</strong><br><br>Oxóssi, filho de Iemanjá<br>Divindade do clã de Ogum<br>É Ibualama, é Inlé<br>Que Oxum levou no rio<br>E nasceu Logunedé!<br><br>Sua natureza é da lua<br>Na lua Oxóssi é Odé Odé-Odé, Odé-Odé<br>Rei de Keto Caboclo da mata Odé-Odé.<br><br>Quinta-feira é seu ossé<br>Axoxó, feijão preto, camarão e amendoim<br>Azul e verde, suas cores<br>Calça branca rendada<br>Saia curta estampada<br><br>Ojá e couraça prateada<br>Na mão ofá, iluquerê<br>Okê okê, okê arô, okê .<br>A jurema é a árvore sagrada<br>Okê arô, Oxóssi, okê okê<br><br>Na Bahia é São Jorge<br>No Rio, São Sebastião<br>Oxóssi é quem manda<br>Nas bandas do meu coração.&nbsp;</p>
 
 
-        <! --img src="/assets/img/tamaraca.jpg" class="img-responsive img-thumbnail" style="width: 150%; height: auto; margin: 0 10px;" alt="Random photo"-->
-
 
       </div>
 

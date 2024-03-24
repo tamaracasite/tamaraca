@@ -20,7 +20,7 @@ classes:
 
 
 
-        <p>2Nous travaillons également la maîtrise du rythme, les chants, le rapport au corps, la posture, l’expression, la relation entre les instruments…mais aussi l’histoire du maracatu, avec ses fondements traditionnels et religieux, à l’aide de supports audio-visuels.</p>
+        <p>Nous travaillons également la maîtrise du rythme, les chants, le rapport au corps, la posture, l’expression, la relation entre les instruments…mais aussi l’histoire du maracatu, avec ses fondements traditionnels et religieux, à l’aide de supports audio-visuels.</p>
 
 
 
@@ -28,18 +28,12 @@ classes:
 
 
 
-        <p><strong>TARIFS 2017/2018 :</strong></p>
-
-
-
-        <figure class="wp-block-table"><table><tbody><tr><td><strong>Produit</strong></td><td><strong>Prix</strong></td><td><strong>Observations</strong></td></tr><tr><td>Cours d’essai*</td><td>Gratuit</td><td></td></tr><tr><td>Adhésion (valable 1 an)</td><td>10 E</td><td>Valable 1 an</td></tr><tr><td>Par cours</td><td>10 E</td><td></td></tr><tr><td>Par semaine</td><td>15 E</td><td></td></tr><tr><td>Par mois</td><td>40 E</td><td></td></tr><tr><td>Par trimestre</td><td>100 E</td><td></td></tr><tr><td>Par année</td><td>200 E</td><td></td></tr><tr><td><strong>TARIFS RÉDUITS :</strong></td><td></td><td><em>Réductions pour étudiants, demandeurs d’emploi, retraités</em></td></tr><tr><td>Par mois</td><td>30 E</td><td></td></tr><tr><td>Par trimestre</td><td>90 E</td><td></td></tr></tbody></table><figcaption><strong>*Le cours d’essai comprend la participation à deux cours :</strong><br><strong>Ceci n’est pas obligatoire, mais conseillé.*Le cours d’essai comprend la participation à deux cours : celui du mardi, pour une première observation, et celui du vendredi, pour jouer.</strong><br></figcaption></figure>
-
-    
-
-        <! --img src="/assets/img/tamaraca.jpg" class="img-responsive img-thumbnail" style="width: 150%; height: auto; margin: 0 10px;" alt="Random photo"-->
-
+        <p><strong>TARIFS 2023/2024 :</strong></p>
 
       </div>
+	  
+	  
+	  <figure class="wp-block-table"><table><tbody><tr><td><strong>Produit</strong></td><td><strong>Prix</strong></td><td><strong>Observations</strong></td></tr><tr><td>Cours d’essai*</td><td>Gratuit</td><td></td></tr><tr><td>Adhésion (valable 1 an)</td><td>10 E</td><td>Valable 1 an</td></tr><tr><td>Par cours</td><td>10 E</td><td></td></tr><tr><td>Par semaine</td><td>15 E</td><td></td></tr><tr><td>Par mois</td><td>40 E</td><td></td></tr><tr><td>Par trimestre</td><td>100 E</td><td></td></tr><tr><td>Par année</td><td>200 E</td><td></td></tr><tr><td><strong>TARIFS RÉDUITS :</strong></td><td></td><td><em>Réductions pour étudiants, demandeurs d’emploi, retraités</em></td></tr><tr><td>Par mois</td><td>30 E</td><td></td></tr><tr><td>Par trimestre</td><td>90 E</td><td></td></tr></tbody></table><figcaption><strong>*Le cours d’essai comprend la participation à deux cours :</strong><br><strong>Ceci n’est pas obligatoire, mais conseillé.*Le cours d’essai comprend la participation à deux cours : celui du mardi, pour une première observation, et celui du vendredi, pour jouer.</strong><br></figcaption></figure>
 
     </div>
 
