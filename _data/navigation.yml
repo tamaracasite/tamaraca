@@ -4,12 +4,8 @@ main:
   - title: "Histoire"
     url: /histoire/
   - title: "Les cours"
-    url: /histoire.md
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+    url: /les-cours/
+  - title: "Loas"
+    url: /loas/
+  - title: "Contact"
+    url: /contact/
