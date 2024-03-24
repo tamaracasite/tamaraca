@@ -16,9 +16,7 @@ classes:
         <div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none">
 
         <h1 class="entry-title">Loas de maracatu</h1>
-  </header>
 
-  
   <div class="entry-content">
     
 <p><strong>EITA QUE BAQUE BONITO</strong> <br>Eita que baque bonito, venha a ver que vem là<br>é o Estrela Brilhante botando seu povo pra brincar<br>Eita que baque bonito, venha a ver que vem là<br>é o Estrela Brilhante botando seu povo pra dançar<br>Nosso baque é de primeira, isso não posso negar,<br>nosso tambor sagrado louva Joventina e Mamae Iemanja<br>Nosso baque é de primeira, isso não posso negar,<br>nosso tambor sagrado louva Joventina e Mamae Iemanja<br><br><strong>OLELEA OLELEO</strong><br>Catirina, baiana e lanceiro escute o baque da nossa Naçao<br>Nosso tambor sagrado vem saudando toda Naçao<br>Catirina, baiana e lanceiro escute o baque da nossa Naçao<br>Nosso tambor sagrado vem saudando toda Naçao<br>Oléléa Oléléo é no baque virado Estrela Brilhante é Naçao nago<br>Oléléa Oléléo Joventina, Erundina e Cangaruçu é Mestre de valor<br><br><strong>TAMBORES DO ESTRELA</strong><br>Yeeeeee Yooooo<br>Tambor do Estrela é tambor sagrado em Naçao Nago <br>x2<br>Escute o martelo, baque de parada, arrasto, imalê<br>Nossos tambores vibrando com muita emoção faz a terra tremer<br>x2<br><br><strong>CLAREIA</strong><br>Estrela, clareia a terra, Estrela, clareia o mar<br>x2<br>Clareia o gonga de beira mar, clareia<br>Clareia os filhos no gonga<br>x2<br><br></p>
@@ -412,16 +410,7 @@ classes:
   </div>
 
 </div>
-
-  </article>
 </div>
 
   
-</div>
-
-
-
-
-</div>
-</div>
 </div>

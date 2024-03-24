@@ -41,5 +41,4 @@ classes:
 
 </div>
 
-  </article>
 </div>
