@@ -279,7 +279,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
       type: posts
@@ -290,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      permalink: /:xindex.html
