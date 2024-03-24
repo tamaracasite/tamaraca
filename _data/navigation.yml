@@ -1,10 +1,10 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
+  - title: "Accueil"
+    url: /
+  - title: "Histoire"
+    url: /histoire.html
+  - title: "Les cours"
+    url: /les-cours.html
   - title: "Tags"
     url: /tags/
   - title: "Pages"
