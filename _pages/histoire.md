@@ -11,7 +11,7 @@ classes:
 				<figure class="wp-block-image size-large">
 					<img src="assets/img/logo_tamaraca.gif"
 				     class="img-responsive img-thumbnail"
-				     style="width: 150%; height: auto; margin: 0 5px;"
+				     style="width: 150%; height: auto; margin: 0 10px;"
 				     alt="Random photo">
 				</figure>
 			</div>
