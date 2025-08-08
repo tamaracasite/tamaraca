@@ -9,7 +9,7 @@
 
       <p>Nous travaillons également la maîtrise du rythme, les chants, le rapport au corps, la posture, l’expression, la relation entre les instruments… mais aussi l’histoire du maracatu, avec ses fondements traditionnels et religieux, à l’aide de supports audio-visuels.</p>
 
-      <p><strong>Informations/Inscriptions: patakori@hotmail.com, 0628503163</strong></p>
+      <p><strong>Informations/Inscriptions: patakori@hotmail.com, 06 61 97 15 33</strong></p>
 
       <p><strong>TARIFS 2025/2026 :</strong></p>
     </div>
