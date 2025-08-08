@@ -3,18 +3,34 @@ permalink: /les-cours/
 classes: wide
 ---
 
-<div style="max-width: 600px; margin: 0 auto; text-align: center; font-family: sans-serif; padding: 2rem;">
-  <h2 style="color: red; margin-bottom: 1rem;">Tamaraca</h2>
+<div id="main" role="main">
 
-  <h3>L’apprentissage de base passe par la maîtrise des cinq instruments de percussion du maracatu de baque virado</h3>
+  <div class="container">
 
-  <p>Chaque instrument est travaillé en détail à l’aide d’exercices spécifiques et moyens mémo-techniques.</p>
+    <div class="row">
 
-  <p>Nous travaillons aussi la maîtrise du rythme, les chants, la posture, la relation entre les instruments… et l’histoire du maracatu avec ses fondements traditionnels et religieux, à l’aide de supports audio-visuels.</p>
+      <div class="col-md-12 text-center">
 
-  <p><strong>Informations/Inscriptions : patakori@hotmail.com · 06 28 50 31 63</strong></p>
+        <h2 style="color: red; display: inline-block;">Tamaraca</h2>
 
-  <h3 style="margin-top: 2rem;">Tarifs 2025/2026 :</h3>
+        <div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none">
+        <h2>L’apprentissage de base passe par la maîtrise des cinq instruments de percussion du maracatu de baque virado</h2>
+
+        <p>Chaque instrument est travaillé en détail à l’aide notamment d’exercices spécifiques et moyens mémo-techniques.</p>
+
+
+
+        <p>Nous travaillons également la maîtrise du rythme, les chants, le rapport au corps, la posture, l’expression, la relation entre les instruments…mais aussi l’histoire du maracatu, avec ses fondements traditionnels et religieux, à l’aide de supports audio-visuels.</p>
+
+
+
+        <p><strong>Informations/Inscriptions: patakori@hotmail.com, 0628503163</strong></p>
+
+
+
+        <p><strong>TARIFS 2023/2024 :</strong></p>
+
+      </div>
 
   <ul style="list-style: none; padding: 0; font-size: 1.1rem;">
     <li><strong>Cours d’essai</strong> – Gratuit</li>
@@ -29,4 +45,10 @@ classes: wide
     Mardi (observation) et Vendredi (participation active).<br>
     Non obligatoire, mais conseillé.
   </p>
+ </div>
+
+  </div>
+
+</div>
+
 </div>
