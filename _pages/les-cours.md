@@ -40,11 +40,6 @@ classes: wide
     <li><strong>Tarif réduit</strong> – 200 €</li>
   </ul>
 
-  <p style="margin-top: 2rem; font-size: 0.95rem;">
-    <strong>Le cours d’essai comprend la participation à deux cours :</strong><br>
-    Mardi (observation) et Vendredi (participation active).<br>
-    Non obligatoire, mais conseillé.
-  </p>
  </div>
 
   </div>
