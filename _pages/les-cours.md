@@ -3,56 +3,30 @@ permalink: /les-cours/
 classes: wide
 ---
 
-<div class="text-center">
-  <h2 style="color: red;">Tamaraca</h2>
+<div style="max-width: 600px; margin: 0 auto; text-align: center; font-family: sans-serif; padding: 2rem;">
+  <h2 style="color: red; margin-bottom: 1rem;">Tamaraca</h2>
 
-  <h2>L'apprentissage de base passe par la maîtrise des cinq instruments de percussion du maracatu de baque virado</h2>
+  <h3>L’apprentissage de base passe par la maîtrise des cinq instruments de percussion du maracatu de baque virado</h3>
 
-  <p>Chaque instrument est travaillé en détail à l'aide notamment d'exercices spécifiques et moyens mémo-techniques.</p>
+  <p>Chaque instrument est travaillé en détail à l’aide d’exercices spécifiques et moyens mémo-techniques.</p>
 
-  <p>Nous travaillons également la maîtrise du rythme, les chants, le rapport au corps, la posture, l'expression, la relation entre les instruments... mais aussi l'histoire du maracatu, avec ses fondements traditionnels et religieux, à l'aide de supports audio-visuels.</p>
+  <p>Nous travaillons aussi la maîtrise du rythme, les chants, la posture, la relation entre les instruments… et l’histoire du maracatu avec ses fondements traditionnels et religieux, à l’aide de supports audio-visuels.</p>
 
-  <p><strong>Informations/Inscriptions: patakori@hotmail.com, 0628503163</strong></p>
+  <p><strong>Informations/Inscriptions : patakori@hotmail.com · 06 28 50 31 63</strong></p>
 
-  <h2>TARIFS 2025/2026 :</h2>
+  <h3 style="margin-top: 2rem;">Tarifs 2025/2026 :</h3>
 
-  <div class="table-wrapper" markdown="block">
-  | Produit                 | Prix    | Observations      |
-  |-------------------------|---------|-------------------|
-  | Cours d'essai*          | Gratuit |                   |
-  | Adhésion (valable 1 an) | 10 €    | Valable 1 an      |
-  | Cours à l'unité         | 20 €    |                   |
-  | Par année               | 260 €   |                   |
-  | Tarif réduit            | 200 €   |                   |
-  </div>
+  <ul style="list-style: none; padding: 0; font-size: 1.1rem;">
+    <li><strong>Cours d’essai</strong> – Gratuit</li>
+    <li><strong>Adhésion annuelle</strong> – 10 € <br><small>(valable 1 an)</small></li>
+    <li><strong>Cours à l’unité</strong> – 20 €</li>
+    <li><strong>Formule annuelle</strong> – 260 €</li>
+    <li><strong>Tarif réduit</strong> – 200 €</li>
+  </ul>
 
-  <div class="notice--info" style="margin-top: 2em; max-width: 800px; margin-left: auto; margin-right: auto;">
-    <p><strong>*Le cours d'essai comprend la participation à deux cours :</strong></p>
-    <p>Ceci n'est pas obligatoire, mais conseillé. Le cours d'essai comprend la participation à deux cours : celui du mardi, pour une première observation, et celui du vendredi, pour jouer.</p>
-  </div>
+  <p style="margin-top: 2rem; font-size: 0.95rem;">
+    <strong>Le cours d’essai comprend la participation à deux cours :</strong><br>
+    Mardi (observation) et Vendredi (participation active).<br>
+    Non obligatoire, mais conseillé.
+  </p>
 </div>
-
-<style>
-  .table-wrapper {
-    display: flex;
-    justify-content: center;
-    margin: 2em 0;
-  }
-  
-  .table-wrapper table {
-    border-collapse: collapse;
-    margin: 0 auto;
-  }
-  
-  .table-wrapper th,
-  .table-wrapper td {
-    padding: 0.75em 1.5em;
-    border: 1px solid #ddd;
-    text-align: left;
-  }
-  
-  .table-wrapper th {
-    background-color: #f2f2f2;
-    font-weight: bold;
-  }
-</style>
