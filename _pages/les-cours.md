@@ -14,29 +14,45 @@ classes: wide
 
   <p><strong>Informations/Inscriptions: patakori@hotmail.com, 0628503163</strong></p>
 
-  <p><strong>TARIFS 2025/2026 :</strong></p>
+  <h2>TARIFS 2025/2026 :</h2>
 
-  <div style="display: flex; justify-content: center;">
-    <div style="max-width: 800px;">
-      | Produit | Prix | Observations |
-      |---------|------|--------------|
-      | Cours d'essai* | Gratuit |  |
-      | Adhésion (valable 1 an) | 10 € | Valable 1 an |
-      | Cours à l'unité | 20 € |  |
-      | Par année | 260 € |  |
-      | Tarif réduit | 200 € |  |
-    </div>
+  <div class="table-wrapper" markdown="block">
+  | Produit                 | Prix    | Observations      |
+  |-------------------------|---------|-------------------|
+  | Cours d'essai*          | Gratuit |                   |
+  | Adhésion (valable 1 an) | 10 €    | Valable 1 an      |
+  | Cours à l'unité         | 20 €    |                   |
+  | Par année               | 260 €   |                   |
+  | Tarif réduit            | 200 €   |                   |
   </div>
 
-  <div class="notice--info" style="margin-top: 1em; text-align: left; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <div class="notice--info" style="margin-top: 2em; max-width: 800px; margin-left: auto; margin-right: auto;">
     <p><strong>*Le cours d'essai comprend la participation à deux cours :</strong></p>
     <p>Ceci n'est pas obligatoire, mais conseillé. Le cours d'essai comprend la participation à deux cours : celui du mardi, pour une première observation, et celui du vendredi, pour jouer.</p>
   </div>
 </div>
 
 <style>
-  .text-center table {
-    margin-left: auto;
-    margin-right: auto;
+  .table-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 2em 0;
+  }
+  
+  .table-wrapper table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  .table-wrapper th,
+  .table-wrapper td {
+    padding: 0.75em 1.5em;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .table-wrapper th {
+    background-color: #f2f2f2;
+    font-weight: bold;
   }
 </style>
