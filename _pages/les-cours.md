@@ -15,15 +15,15 @@ classes:
 
       <p>Nous travaillons également la maîtrise du rythme, les chants, le rapport au corps, la posture, l’expression, la relation entre les instruments… mais aussi l’histoire du maracatu, avec ses fondements traditionnels et religieux, à l’aide de supports audio-visuels.</p>
 
-      <p><strong>Informations/Inscriptions: patakori@hotmail.com, 06 61 97 15 33</strong></p>
+      <p><strong>Informations/Inscriptions: patakori@hotmail.com, 0628503163</strong></p>
 
       <p><strong>TARIFS 2025/2026 :</strong></p>
     </div>
 
-    <!-- Centered Table -->
-    <div style="display: flex; justify-content: center;">
-      <figure class="wp-block-table">
-        <table>
+    <!-- Fully centered table -->
+    <div style="text-align: center;">
+      <figure class="wp-block-table" style="display: inline-block; text-align: left;">
+        <table style="margin: 0 auto; border-collapse: collapse;" border="1" cellpadding="8">
           <tbody>
             <tr>
               <td><strong>Produit</strong></td>
@@ -57,7 +57,7 @@ classes:
             </tr>
           </tbody>
         </table>
-        <figcaption>
+        <figcaption style="margin-top: 10px; text-align: center;">
           <strong>*Le cours d’essai comprend la participation à deux cours :</strong><br>
           <strong>Ceci n’est pas obligatoire, mais conseillé. Le cours d’essai comprend la participation à deux cours : celui du mardi, pour une première observation, et celui du vendredi, pour jouer.</strong>
         </figcaption>
@@ -65,3 +65,4 @@ classes:
     </div>
   </div>
 </div>
+
