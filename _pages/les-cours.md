@@ -24,11 +24,11 @@ classes: wide
 
 
 
-        <p><strong>Informations/Inscriptions: patakori@hotmail.com, 0628503163</strong></p>
+        <p><strong>Informations/Inscriptions: patakori@hotmail.com, 06 61 97 15 33</strong></p>
 
 
 
-        <p><strong>TARIFS 2023/2024 :</strong></p>
+        <p><strong>TARIFS 2025/2026 :</strong></p>
 
       </div>
 
